@@ -84,3 +84,9 @@ footer{
     background-color: rgba(0, 0, 0, 0.905);
     color: white;
 }
+
+@media screen and (max-width: 755px){
+    .apresentacao{
+        margin: 50px 5px;
+    }
+}
