@@ -1,4 +1,4 @@
-#Currículo
+# Currículo
 
 Acessar site: https://rafaellaevboff.github.io/Curriculo/
 
